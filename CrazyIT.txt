@@ -12,3 +12,28 @@
   
   b''.decode  -- building a str from a bytes
   
+  \b \r \n \t \' \" \\ 
+  
+  format str: 
+  
+  booname = 'I love python'
+  print("this book\'s name is %s" % bookname)
+  
+  a = 1
+  b = 2
+  print(' %s is not equal %s' % (a,b))
+  
+  slice:
+  'abcdefghij'[1-5] => 'bcde'
+  
+  in
+  len(),max(),min()
+  
+  for help: help(), dir()
+  
+  
+  
+  
+  
+  
+  
