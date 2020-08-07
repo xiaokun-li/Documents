@@ -36,8 +36,17 @@
   
   operators
   +-/* ** // % |^~& >> << > >= < <= == != and or not is is not in not in x.attribute x[index]
+
+
+# The chapter three, introduced list, tuple, dict
   
-  
+# The chapter four, introduced programming flow contrtol. loop and conditional statements.
+
+# The chapter five, introduced functions and lambda representation.
+
+
+
+
   
   
   
