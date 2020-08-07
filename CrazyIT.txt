@@ -2,3 +2,13 @@
 
 # The charpter one, introduced the history about Python, installation about Python, advantages. was born in 1989.
 
+# The Charpter two, introduced the based datatype: int, float, str...
+  0x1000, 0o1000, 0b1000, 5e3
+  "I'm a student in Python."   r'"Let\'s go", he said'
+  
+  bytes('',encoding='utf-8')  --building a bytes from a str
+  b''     --building a bytes from a str
+  ''.encode('utf-8')  --buliding a bytes from a str
+  
+  b''.decode  -- building a str from a bytes
+  
