@@ -2,7 +2,7 @@
 
 # The charpter one, introduced the history about Python, installation about Python, advantages. was born in 1989.
 
-# The Charpter two, introduced the based datatype: int, float, str...
+# The Charpter two, introduced the based datatype: int, float, str, operators... especially str object.
   0x1000, 0o1000, 0b1000, 5e3
   "I'm a student in Python."   r'"Let\'s go", he said'
   
@@ -30,6 +30,13 @@
   len(),max(),min()
   
   for help: help(), dir()
+  
+  str.method()
+  ... ...
+  
+  operators
+  +-/* ** // % |^~& >> << > >= < <= == != and or not is is not in not in x.attribute x[index]
+  
   
   
   
